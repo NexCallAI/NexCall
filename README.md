@@ -1,12 +1,12 @@
 <div align="center">
 
 <h1 style="border-bottom: none">
-    <b><a href="hivespace.net">HiveSpace</a></b><br />
+    <b><a href="https://nexcall.us">NexCall</a></b><br />
     Write, Draw and Plan All at Once
     <br>
 </h1>
-<a href="hive-space.app">
-    <img alt="HiveSpace logo" src="https://i.imgur.com/THTHU4P.png" style="width: 100%">
+<a href="https://nexcall.us">
+    <img alt="NexCall logo" src="https://i.imgur.com/THTHU4P.png" style="width: 100%">
 </a>
 <br/>
 <p align="center">
@@ -19,11 +19,10 @@
 <br/>
 
 <div align="center">
-    <a href="hivespace.net">Home Page</a> |
-    <a href="twitter.com/hivecall">Twitter</a> |
-    <a href="t.me/HiveSpaceApp">Telegram</a> |
-    <a href="medium.com/@HiveSpace">Medium</a> |
-    <a href="https://hive-space.app">Documentation</a>
+    <a href="https://nexcall.us">Home Page</a> |
+    <a href="https://twitter.com/nexcall">Twitter</a> |
+    <a href="https://medium.com/@_NexCall">Medium</a> |
+    <a href="https://nexcall.us">Documentation</a>
 </div>
 <br/>
 
@@ -36,7 +35,7 @@
 
 <br />
 <div align="center">
-<em>Docs, canvas and tables are hyper-merged with HiveSpace</em>
+<em>Docs, canvas and tables are hyper-merged with NexCall</em>
 </div>
 <br />
 
@@ -47,27 +46,27 @@ Star us, and you will receive all release notifications from GitHub without any 
 
 <img src="https://i.ibb.co/Pj3Vp9j/1222222.gif" style="width: 100%"/>
 
-## What is HiveSpace
+## What is NexCall
 
-HiveSpace is an open-source, all-in-one workspace and an operating system for all the building blocks that assemble your knowledge base and much more -- wiki, knowledge management, presentation and digital assets. It's a better alternative to Notion and Miro.
+NexCall is an open-source, all-in-one workspace and an operating system for all the building blocks that assemble your knowledge base and much more -- wiki, knowledge management, presentation and digital assets. It's a better alternative to Notion and Miro.
 
 ## Features
 
 **A true canvas for blocks in any form. Docs and whiteboard are now fully merged.**
 
-- Many editor apps claim to be a canvas for productivity, but HiveSpace is one of the very few which allows you to put any building block on an edgeless canvas -- rich text, sticky notes, any embedded web pages, multi-view databases, linked pages, shapes and even slides. We have it all.
+- Many editor apps claim to be a canvas for productivity, but NexCall is one of the very few which allows you to put any building block on an edgeless canvas -- rich text, sticky notes, any embedded web pages, multi-view databases, linked pages, shapes and even slides. We have it all.
 
 **Multimodal AI partner ready to kick in any work**
 
-- Write up professional work report? Turn an outline into expressive and presentable slides? Summary an article into a well-structured mindmap? Sorting your job plan and backlog for tasks? Or... draw and code prototype apps and web pages directly all with one prompt? With you, HiveSpace AI pushes your creativity to the edge of your imagination.
+- Write up professional work report? Turn an outline into expressive and presentable slides? Summary an article into a well-structured mindmap? Sorting your job plan and backlog for tasks? Or... draw and code prototype apps and web pages directly all with one prompt? With you, NexCall AI pushes your creativity to the edge of your imagination.
 
 **Local-first & Real-time collaborative**
 
-- We love the idea of local-first that you always own your data on your disk, in spite of the cloud. Furthermore, HiveSpace supports real-time sync and collaborations on web and cross-platform clients.
+- We love the idea of local-first that you always own your data on your disk, in spite of the cloud. Furthermore, NexCall supports real-time sync and collaborations on web and cross-platform clients.
 
-**Self-host & Shape your own HiveSpace**
+**Self-host & Shape your own NexCall**
 
-- You have the freedom to manage, self-host, fork and build your own HiveSpace. Plugin community and third-party blocks are coming soon. More tractions on Blocksuite.
+- You have the freedom to manage, self-host, fork and build your own NexCall. Plugin community and third-party blocks are coming soon. More tractions on Blocksuite.
 
 ## Acknowledgement
 
@@ -81,36 +80,36 @@ HiveSpace is an open-source, all-in-one workspace and an operating system for al
 
 There is a large overlap of their atomic “building blocks” between these apps. They are not open source, nor do they have a plugin system like Vscode for contributors to customize. We want to have something that contains all the features we love and also goes one step even further.
 
-Thanks for checking us out, we appreciate your interest and sincerely hope that HiveSpace resonates with you! 🎵 Checking https://hivespace.app/ for more details ions.
+Thanks for checking us out, we appreciate your interest and sincerely hope that NexCall resonates with you! 🎵 Checking https://NexCall.us/ for more details ions.
 
 ## Contributing
 
 | Bug Reports                                                                                                                                         | Feature Requests                                                                                                                                               | Questions                                                       | 
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| [Create a bug report](https://github.com/hivespaceai/hivespace/issues/new?assignees=&labels=bug%2Cproduct-review&template=BUG-REPORT.yml&title=TITLE) | [Submit a feature request](https://github.com/havespaceai/havespace/issues/new?assignees=&labels=feat%2Cproduct-review&template=FEATURE-REQUEST.yml&title=TITLE) | [Send us an Email](https://hivespace.app) |           |
-| Something isn't working as expected                                                                                                                 | An idea for a new feature, or improvements                                                                                                                     | contact@hivespace.app                                                    |
+| [Create a bug report](https://github.com/NexCall/NexCall/issues/new?assignees=&labels=bug%2Cproduct-review&template=BUG-REPORT.yml&title=TITLE) | [Submit a feature request](https://github.com/havespaceai/havespace/issues/new?assignees=&labels=feat%2Cproduct-review&template=FEATURE-REQUEST.yml&title=TITLE) | [Send us an Email](https://NexCall.us) |           |
+| Something isn't working as expected                                                                                                                 | An idea for a new feature, or improvements                                                                                                                     | contact@NexCall.us                                                    |
 
 Calling all developers, testers, tech writers and more! Contributions of all types are more than welcome, you can read more in [docs/types-of-contributions.md](docs/types-of-contributions.md). If you are interested in contributing code, read our [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) and feel free to check out our GitHub issues to get stuck in to show us what you’re made of.
 
 **Before you start contributing, please make sure you have read and accepted our Contributor License Agreement. To indicate your agreement, simply edit this file and submit a pull request.**
 
-For **bug reports**, **feature requests** and other **suggestions** you can also [create a new issue](https://github.com/hivespaceai/hivespace/issues/new/choose) and choose the most appropriate template for your feedback.
+For **bug reports**, **feature requests** and other **suggestions** you can also [create a new issue](https://github.com/NexCall/NexCall/issues/new/choose) and choose the most appropriate template for your feedback.
 
 
 
-If you have questions, you are welcome to contact us. One of the best places to get more info and learn more is in the [HiveSpace](https://hivespace.app) where you can engage with other like-minded individuals.
+If you have questions, you are welcome to contact us. One of the best places to get more info and learn more is in the [NexCall](https://NexCall.us) where you can engage with other like-minded individuals.
 
 ## Ecosystem
 
 | Name                                             |                            |                                                                                                                                         |
 | ------------------------------------------------ | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| [@Hivespace/component](packages/frontend/component) | HiveSpace Component Resources | ![](https://img.shields.io/codecov/c/github/toeverything/affine?style=flat-square)                                                      |
-| [@HivespaceAI/theme](packages/common/theme)     | HiveSpace theme               | [![](https://img.shields.io/npm/dm/@toeverything/theme?style=flat-square&color=eee)](https://www.npmjs.com/package/@toeverything/theme) |
+| [@NexCall/component](packages/frontend/component) | NexCall Component Resources | ![](https://img.shields.io/codecov/c/github/toeverything/affine?style=flat-square)                                                      |
+| [@NexCallAI/theme](packages/common/theme)     | NexCall theme               | [![](https://img.shields.io/npm/dm/@toeverything/theme?style=flat-square&color=eee)](https://www.npmjs.com/package/@toeverything/theme) |
 
 
 ## Contributors
 
-We would like to express our gratitude to all the individuals who have already contributed to HiveSpace! If you have any HiveSpace-related project, documentation, tool or template, please feel free to contribute it by submitting a pull request to our curated list on GitHub: [awesome-HiveSpace](https://github.com/HivespaceAI/hivespace).
+We would like to express our gratitude to all the individuals who have already contributed to NexCall! If you have any NexCall-related project, documentation, tool or template, please feel free to contribute it by submitting a pull request to our curated list on GitHub: [awesome-NexCall](https://github.com/NexCall/NexCall).
 
 <a href="">
   <img alt="contributors" src="https://opencollective.com/affine/contributors.svg?width=890&button=false" />
@@ -118,26 +117,26 @@ We would like to express our gratitude to all the individuals who have already c
 
 ## Self-Host
 
-Begin with Docker to deploy your own feature-rich, unrestricted version of HiveSpace. Our team is diligently updating to the latest version. For more information on how to self-host HiveSpace, please refer to our [documentation](https://wHiveSpace.app/).
+Begin with Docker to deploy your own feature-rich, unrestricted version of NexCall. Our team is diligently updating to the latest version. For more information on how to self-host NexCall, please refer to our [documentation](https://NexCall.us/).
 
 ## Hiring
 
-Some amazing companies, including HiveSpace, are looking for developers! Are you interested in joining HiveSpace or its partners? Check out our Discord channel for some of the latest jobs available.
+Some amazing companies, including NexCall, are looking for developers! Are you interested in joining NexCall or its partners? Check out our Discord channel for some of the latest jobs available.
 
 ## Email
 
-For questions and suggestions, please use this email [contact@HiveSpace.app]
+For questions and suggestions, please use this email [contact@NexCall.us]
 
 ## Building
 
 ### Codespaces
 
 From the GitHub repo main page, click the green "Code" button and select "Create codespace on master". This will open a new Codespace with the (supposedly auto-forked
-HiveSpace repo cloned, built, and ready to go.
+NexCall repo cloned, built, and ready to go.
 
 ### Local
 
-See [BUILDING.md] for instructions on how to build HiveSpace from source code.
+See [BUILDING.md] for instructions on how to build NexCall from source code.
 
 ## Contributing
 
