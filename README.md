@@ -6,7 +6,7 @@
     <br>
 </h1>
 <a href="https://nexcall.us">
-    <img alt="NexCall logo" src="https://i.imgur.com/10jm6z8.png" style="width: 100%">
+    <img alt="NexCall logo" src="https://i.ibb.co/hZFLrP0/repo.png" style="width: 100%">
 </a>
 <br/>
 <p align="center">
